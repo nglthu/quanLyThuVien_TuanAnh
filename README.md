@@ -1,6 +1,8 @@
 # Giới thiệu
 
-Ứng dụng quản lý thư viện của Tuấn Anh
+Ứng dụng quản lý thư viện
+CopyRight by Tuấn Anh
+2024 version1
 
 # Chức năng
 
